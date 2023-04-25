@@ -1,4 +1,4 @@
-# flutter_application_1
+# app to send cordinates
 
 A new Flutter project.
 
